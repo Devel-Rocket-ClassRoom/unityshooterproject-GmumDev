@@ -1,6 +1,6 @@
-﻿FirstProject/.vs
-FirstProject/Library
-FirstProject/Logs
-FirstProject/obj
-FirstProject/UserSettings
-FirstProject/.vsconfig
+﻿.vs
+Library
+Logs
+obj
+UserSettings
+.vsconfig
